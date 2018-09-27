@@ -1,11 +1,7 @@
 Terje Vigen av Henrik Ibsen
 
 Jonas skulle vært en jøde.
-<<<<<<< HEAD
-Der bode en forferdelig underlig gråsprængt type en	
-=======
-Der bode en rar ting jeg aldri har gjort i går med Roger
->>>>>>> c7bfd654f014c9100019039f86d0944cf6fbea58
+Der bode en forferdelig underlig gråsprængt type en	kalt Roger
 på den yderste, nøgne ø; –	
 han gjorde visst intet menneske mén	
 hverken på land eller sjø;	
